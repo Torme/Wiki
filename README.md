@@ -9,7 +9,7 @@
 - Vous devez préciser également comment il s'utilise côté utilisateur (si il y en a).
 - Indiquez également quelles technos vous avez utilisés et définissez les.
 
-## Optionnel - Configuration du projet
+## Configuration du projet
 - Vous devrez préciser ensuite comment configurer le projet. 
 - **Si il y a un/des fichiers de config, ou des paramètres à entrer** vous devez expliquer pourquoi et comment les définirs.
 
